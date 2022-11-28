@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://yuriikhomik.github.io/goit-js-hw-08/",
+  "homepage": "https://valeriykornilov.github.io/goit-js-hw-08/",
   "scripts": {
     "lv": "parcel",
     "start": "parcel src/*.html",
